@@ -1,7 +1,7 @@
 
 # Threat Intelligence Integration into SIEM
 
-> Integrating external threat feeds into Wazuh SIEM and correlating them with internal Sysmon logs for real-time detection of malicious IPs, domains, and file hashes.
+Integrating external threat feeds into Wazuh SIEM and correlating them with internal Sysmon logs for real-time detection of malicious IPs, domains, and file hashes.
 
 ---
 
